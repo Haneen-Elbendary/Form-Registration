@@ -1,0 +1,11 @@
+.success {
+  border: 3px solid rgb(49, 165, 49) !important;
+  border-radius: 5px;
+}
+.failed {
+    border: 3px solid red !important;
+}
+.error {
+  color: red !important;
+  font-weight: bold;
+}
